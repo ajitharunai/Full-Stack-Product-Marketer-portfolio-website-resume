@@ -107,7 +107,7 @@
    
    #### Clone Repository
    ```bash
-   git clone https://github.com/EFEELE/NeonMint.git
+   git clone https://github.com/ajitharunai
    ```
    #### Install Dependencies
    ```bash

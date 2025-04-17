@@ -1,10 +1,10 @@
 ---
 layout: /src/layouts/MarkdownPostLayout.astro
 title: NeonMint Template Documentation
-author: Fernando López
+author: Ajith Kumar
 description: "NeonMint is a modern, minimalist template crafted for developers and digital creatives. Its dark-themed layout with mint green highlights delivers a sleek, elegant, and functional visual experience—perfect for portfolios, dashboards, or tech landing pages."
 image:
-  url: "/images/projects/neonmint.webp"
+  url: "https://cdn.prod.website-files.com/6595090b1c3579f5d318fc1b/6800d04a84d55af2977b9cdf_Screenshot%202025-04-17%20at%203.25.29%E2%80%AFPM.png"
   alt: "Screenshot of NeonMint, a modern and minimalist web template built with Astro and TailwindCSS. It displays various sections such as blog, portfolio, work experience, and Markdown guide, in both light and dark modes with mint green accents."
 pubDate: 2025-04-04
 tags:

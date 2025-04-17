@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" class="w-full h-full" viewBox="0 0 140 140">
+  <g clip-path="url(#a)">
+    <mask id="b" width="140" height="140" x="0" y="0" maskUnits="userSpaceOnUse">
+      <path fill="#fff" d="M0 0h140v140H0z"/>
+    </mask>
+    <g mask="url(#b)">
+      <!-- Blue outer arch -->
+      <path fill="#00AEEF" d="M20 120c0-50 40-90 80-90s80 40 80 90H20zM100 30c-40 0-60 25-60 50h120c0-25-20-50-60-50z"/>
+      <!-- Red middle arch -->
+      <path fill="#FF4040" d="M40 110c0-35 30-60 60-60s60 25 60 60H40zM100 50c-30 0-40 15-40 30h80c0-15-10-30-40-30z"/>
+      <!-- Yellow inner arch -->
+      <path fill="#FFC107" d="M60 100c0-20 20-35 40-35s40 15 40 35H60zM100 65c-20 0-25 10-25 15h50c0-10-5-15-25-15z"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h140v140H0z"/>
+    </clipPath>
+  </defs>
+</svg>

@@ -110,6 +110,71 @@ export const languages: Record<string, Language> = {
     name: "Python",
     iconName: "python",
   },
+  Ahrefs: {
+    name: "Ahrefs",
+    iconName: "Ahrefs",
+  },
+  Docusaurus: {
+    name: "Docusaurus",
+    iconName: "Docusaurus",
+  },
+  Webflow: {
+    name: "Webflow",
+    iconName: "Webflow",
+  },
+  semrush: {
+    name: "semrush",
+    iconName: "semrush",
+  },
+  HubSpot: {
+    name: "HubSpot",
+    iconName: "HubSpot",
+  },
+
+  Framer: {
+    name: "Framer",
+    iconName: "Framer",
+
+  },
+  GA: {
+    name: "GA",
+    iconName: "GA",
+  },
+
+clay: {
+    name: "clay",
+    iconName: "clay",
+  }, 
+
+  GSC: {
+    name: "Google Search Console",
+    iconName: "GSC",
+  }, 
+
+  Mintlify: {
+    name: "Mintlify",
+    iconName: "Mintlify",
+  }, 
+  
+  chatgpt: {
+    name: "Chatgpt",
+    iconName: "chatgpt",
+  }, 
+
+  Perplexity: {
+    name: "Perplexity",
+    iconName: "Perplexity",
+  }, 
+
+  Claude: {
+    name: "Claude",
+    iconName: "Claude",
+  },
+  
+  linkedin: {
+    name: "linkedin",
+    iconName: "linkedin",
+  },
 };
 
 export const getLanguage = (lang: string): Language => {
