@@ -1,7 +1,7 @@
 
-# NeonMint Template Documentation
+# Full Stack Product Marketer Portfoli website Template Documentation
 
-![neonmint](https://github.com/user-attachments/assets/068da5e4-50c0-4134-99d3-8cb8ec867d9f)
+![neonmint](https://cdn.prod.website-files.com/6595090b1c3579f5d318fc1b/6800d04a84d55af2977b9cdf_Screenshot%202025-04-17%20at%203.25.29%E2%80%AFPM.png)
 
 ## 🎯 Overview
 
